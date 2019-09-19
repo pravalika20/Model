@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Taco Bell</folder>
+	<filename>6a00e54ff4c2f8883301b8d26b6d39970c-320wi.png</filename>
+	<path>/home/miracle/Downloads/receipt - custom vision/Taco Bell/6a00e54ff4c2f8883301b8d26b6d39970c-320wi.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taco Bell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>176</ymin>
+			<xmax>164</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

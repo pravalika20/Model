@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Taco Bell</folder>
+	<filename>taco-bell_racist-experience-201707311081665_eb63-gallery.jpeg</filename>
+	<path>/home/miracle/Downloads/receipt - custom vision/Taco Bell/taco-bell_racist-experience-201707311081665_eb63-gallery.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taco Bell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>272</ymin>
+			<xmax>266</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

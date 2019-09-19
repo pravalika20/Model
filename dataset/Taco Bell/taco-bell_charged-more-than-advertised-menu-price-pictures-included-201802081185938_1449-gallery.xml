@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Taco Bell</folder>
+	<filename>taco-bell_charged-more-than-advertised-menu-price-pictures-included-201802081185938_1449-gallery.jpeg</filename>
+	<path>/home/miracle/Downloads/receipt - custom vision/Taco Bell/taco-bell_charged-more-than-advertised-menu-price-pictures-included-201802081185938_1449-gallery.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taco Bell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>217</ymin>
+			<xmax>277</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

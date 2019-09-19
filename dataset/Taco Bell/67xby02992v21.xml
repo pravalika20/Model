@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Taco Bell</folder>
+	<filename>67xby02992v21.jpg</filename>
+	<path>/home/miracle/Downloads/receipt - custom vision/Taco Bell/67xby02992v21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taco Bell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>771</ymin>
+			<xmax>1320</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+</annotation>

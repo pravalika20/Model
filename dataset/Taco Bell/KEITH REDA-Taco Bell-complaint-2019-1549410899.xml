@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Taco Bell</folder>
+	<filename>KEITH REDA-Taco Bell-complaint-2019-1549410899.jpg</filename>
+	<path>/home/miracle/Downloads/receipt - custom vision/Taco Bell/KEITH REDA-Taco Bell-complaint-2019-1549410899.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taco Bell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>1360</ymin>
+			<xmax>1147</xmax>
+			<ymax>1592</ymax>
+		</bndbox>
+	</object>
+</annotation>
